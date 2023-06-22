@@ -1,4 +1,6 @@
+using BlazorCrud.Server.Data;
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+var connectionString = builder.Configuration.GetConnectionString("ConnectionDb");
+
+builder.Services.AddEntityFrameworkNpgsql()
+        .AddDbContext<ApiDbContext>(opt => opt.UseNpgsql(connectionString));
 
 var app = builder.Build();
 
@@ -17,7 +24,6 @@ if (app.Environment.IsDevelopment())
 else
 {
     app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWQLqzfOwQMMT0StpDmF677pHMGo4VeKTwWyfXEF7B8m50Shxo4EshDisrIDb96ghp3tg8HA7H+Kdd+rZ6bVJA==",
+  "dgSpecHash": "Oup2T+v77AogjE/fop98IkWiW9GMfWaBM8y7B4W2pkdyqf8W2NxwvrVZYWnBS3Sm63gTyBzXKkHG4MFjMcLkhg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
+  "projectFilePath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljesus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ljesus\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
