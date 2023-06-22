@@ -1858,8 +1858,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
-              "projectPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
+            "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
+              "projectPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
             }
           }
         }

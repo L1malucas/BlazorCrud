@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
-                "projectPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
+              "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
+                "projectPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
+    "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj",
         "projectName": "BlazorCrud.Shared",
-        "projectPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj",
+        "projectPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj",
         "packagesPath": "C:\\Users\\ljesus\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
