@@ -1272,11 +1272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
+      "projectUniqueName": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
       "projectName": "BlazorCrud.Server",
-      "projectPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
+      "projectPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
       "packagesPath": "C:\\Users\\ljesus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Server\\obj\\",
+      "outputPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1297,11 +1297,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Client\\BlazorCrud.Client.csproj": {
-              "projectPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Client\\BlazorCrud.Client.csproj"
+            "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Client\\BlazorCrud.Client.csproj": {
+              "projectPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Client\\BlazorCrud.Client.csproj"
             },
-            "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
-              "projectPath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
+            "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
+              "projectPath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
             }
           }
         }

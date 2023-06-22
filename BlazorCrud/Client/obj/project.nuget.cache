@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzpRwgsG+QUR0HxvMzaAcNOn0YrcgraOsz4VP2ES8wncuQRtv0/eqAKgl7RUHqyWoW/T5H+hc7mHq5RONrRrrg==",
+  "dgSpecHash": "7RSIS+dn6iezlDNnb+ARxi6VWdjdvmLYOB2fCuvSagmCGIY3P6UWgJ3zsnq260fu5GFGglX/M3dLaS3nWwKe1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\Client\\BlazorCrud.Client.csproj",
+  "projectFilePath": "c:\\Users\\ljesus\\Desktop\\IRT\\C#\\BlazorCrud\\BlazorCrud\\Client\\BlazorCrud.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljesus\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\ljesus\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\microsoft.aspnetcore.components.7.0.5.nupkg.sha512",
